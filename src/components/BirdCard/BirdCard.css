@@ -1,0 +1,20 @@
+.card {
+    background: #fff;
+  }
+  
+  .card > .img-container {
+    overflow: hidden;
+    text-align: center;
+    margin: 11px;
+  }
+  .card > .img-container > img {
+    width: 175px;
+    border-width: 1.5px;
+    border-color: black;
+    border-style: solid;
+  }
+
+img:hover{
+  cursor: pointer;
+  opacity: 0.5;
+}
