@@ -14,5 +14,5 @@ Create-react-app was used to initalize the file structure. Components developed 
 -Header (shows the directions and score to the player)
 -Container (contains everything)
 
-## Find the deployed app throught Github here:
-https://jlbarbuto.github.io/bird-game/
+## Find the deployed app through Heroku here:
+https://dashboard.heroku.com/apps/evening-oasis-63330
