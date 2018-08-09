@@ -15,4 +15,4 @@ Create-react-app was used to initalize the file structure. Components developed 
 -Container (contains everything)
 
 ## Find the deployed app through Heroku here:
-https://dashboard.heroku.com/apps/evening-oasis-63330
+https://evening-oasis-63330.herokuapp.com/
